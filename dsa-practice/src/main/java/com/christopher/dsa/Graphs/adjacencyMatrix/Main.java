@@ -26,6 +26,8 @@ public class Main {
 
 		graph.print();
 
-		System.out.println(graph.checkEdge(3, 2));
+		// System.out.println(graph.checkEdge(3, 2));
+
+		graph.depthFirstSearch(2);
 	}
 }
