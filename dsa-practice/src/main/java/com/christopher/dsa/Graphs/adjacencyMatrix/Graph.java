@@ -1,4 +1,4 @@
-package com.christopher.dsa.Graphs.directedGraph;
+package com.christopher.dsa.Graphs.adjacencyMatrix;
 
 import java.util.*;
 

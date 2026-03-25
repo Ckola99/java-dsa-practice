@@ -1,4 +1,4 @@
-package com.christopher.dsa.Graphs.directedGraph;
+package com.christopher.dsa.Graphs.adjacencyMatrix;
 
 public class Main {
 	public static void main(String[] args) {
